@@ -1,21 +1,5 @@
 Data-Science-Assignment: eCommerce Transactions Dataset
 
-**Project Structure**
-├── Data
-│   ├── Customers.csv             # Customer data with unique IDs, names, regions, and signup dates
-│   ├── Products.csv              # Product data with IDs, names, categories, and prices
-│   └── Transactions.csv          # Transaction data with transaction IDs, customer IDs, product IDs, etc.
-├── Notebooks
-│   ├── FirstName_LastName_Task1_EDA.ipynb  # Jupyter notebook for Exploratory Data Analysis (EDA)
-│   ├── FirstName_LastName_Task2_Lookalike.ipynb  # Jupyter notebook for the Lookalike Model
-│   └── FirstName_LastName_Task3_Clustering.ipynb  # Jupyter notebook for Customer Segmentation using Clustering
-├── Reports
-│   ├── FirstName_LastName_EDA_Report.pdf   # PDF report summarizing insights from the EDA task
-│   └── FirstName_LastName_Clustering_Report.pdf  # PDF report summarizing results of Customer Segmentation
-├── Lookalike_Results.csv          # CSV file containing the lookalike recommendations for customers
-├── requirements.txt              # File listing all Python dependencies required for the project
-└── README.md                     # Project overview, instructions, and guidelines for usage
-
 **Overview**
 This repository contains the code and results for a data science assignment based on an eCommerce transactions dataset. The assignment consists of three tasks: Exploratory Data Analysis (EDA), Lookalike Model, and Customer Segmentation (Clustering).
 
