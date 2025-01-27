@@ -1,5 +1,6 @@
-**# Data-Science-Assignment:eCommerce Transactions Dataset**
-**# Overview**
+**Data-Science-Assignment:eCommerce Transactions Dataset**
+
+**Overview**
 This repository contains the code and results for a data science assignment based on an eCommerce transactions dataset. The assignment consists of three tasks: Exploratory Data Analysis (EDA), Lookalike Model, and Customer Segmentation (Clustering).
 
 **Tasks**
