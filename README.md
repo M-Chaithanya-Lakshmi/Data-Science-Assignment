@@ -17,8 +17,8 @@ This repository contains the code and results for a data science assignment base
 **FirstName_LastName_Task2_Lookalike.ipynb:** Jupyter notebook where you develop the Lookalike Model to recommend similar customers based on purchase behavior.
 **FirstName_LastName_Task3_Clustering.ipynb:** Jupyter notebook for Customer Segmentation through clustering techniques, analyzing customer behavior patterns.
 
-**Reports:
-**
+**Reports:**
+
 **FirstName_LastName_EDA_Report.pdf:** PDF document summarizing the findings from the EDA task, including key insights derived from the data.
 **FirstName_LastName_Clustering_Report.pdf:** PDF document discussing the results of the customer segmentation (clustering), including metrics like Davies-Bouldin Index and Silhouette Score.
 **Lookalike_Results.csv:** A CSV file that stores the Lookalike Model's recommendations, showing the top 3 similar customers for each of the first 20 customers with corresponding similarity scores.
@@ -107,5 +107,6 @@ A CSV file with the customer segmentation results.
 **Visual Representation:** Clarity of the cluster visualizations.
 
 **Conclusion**
+
 This project has successfully analyzed eCommerce transaction data to uncover meaningful patterns and insights. By building a lookalike model and segmenting the customer base, the project paves the way for more effective marketing strategies. Future work may include adding more data sources, exploring advanced modeling techniques, or refining the segmentation through deeper feature engineering.
 
